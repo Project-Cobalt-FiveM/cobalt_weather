@@ -1,0 +1,88 @@
+Project Cobalt License
+Version 1.0
+
+Copyright (c) 2026 zlexif and the Project Cobalt contributors
+
+This license covers the software in this repository, which is part of
+Project Cobalt, a FiveM roleplay framework ("the Software"). By using,
+copying, modifying or distributing the Software you accept these terms.
+
+1. Definitions
+
+   "Project Cobalt" means the framework of that name published at
+   https://github.com/Project-Cobalt-FiveM.
+
+   "Derivative" means any work that contains the Software, in whole or in
+   part, modified or not, including translations, ports and resources
+   built by changing the Software's code.
+
+   "Server" means a FiveM, RedM or similar game server.
+
+2. What you may do
+
+   Subject to the conditions below, you may, free of charge:
+
+   a. use and run the Software, or a Derivative, on any number of Servers;
+   b. run those Servers commercially, including taking donations, selling
+      in-game perks, ranks, priority queue or other server benefits, and
+      charging for access to the Server;
+   c. study and modify the Software for your own use;
+   d. share the Software and Derivatives under the conditions in section 3;
+   e. charge for your own services around the Software, such as hosting,
+      installation, configuration or custom development, as long as the
+      Software and any Derivative itself is handed over under this license
+      at no extra cost.
+
+3. Conditions
+
+   a. Source stays open. If you share the Software or a Derivative with
+      anyone outside your own team, in any form, you must make its complete,
+      readable source code available to them under this same license, at
+      no charge. You may not obfuscate, encrypt or escrow it, including
+      through FiveM Asset Escrow, or ship it only in a form that hides the
+      source.
+
+   b. No selling the code. You may not sell, resell, rent, sublicense for a
+      fee or otherwise charge for the Software or a Derivative itself,
+      whether on Tebex, a store, a marketplace, a paid Discord, a
+      subscription or any other paid channel, alone or bundled with other
+      products. Section 2e describes the services you may charge for.
+
+   c. The name stays. The Software must stay identified as part of Project
+      Cobalt. You may not rename, rebrand or present the Software or a
+      Derivative as a different framework or product. Resource names keep
+      their "cobalt_" prefix, and any description, store page or
+      announcement of a Derivative must state that it is based on Project
+      Cobalt and link to https://github.com/Project-Cobalt-FiveM.
+
+   d. Same license. A Derivative is covered by this license in full. You may
+      not add terms that take away any of the rights in section 2 or relax
+      any condition in section 3.
+
+   e. Keep the notices. Keep this license file, the copyright notice above
+      and any credit notices in the Software in every copy you share.
+
+4. Other people's code
+
+   Parts of Project Cobalt are separate projects under their own licenses,
+   such as ox_lib, ox_fuel, ox_doorlock, ox_target, npwd,
+   illenium-appearance and bob74_ipl. This license does not cover them, and
+   their own licenses apply to them.
+
+5. Ending the license
+
+   If you break any condition of this license, your rights under it end
+   automatically. They come back if you fix every breach within 30 days of
+   learning about it and it is your first breach. Copies of the Software
+   that others received from you keep their rights as long as those people
+   follow this license.
+
+6. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+   NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
